@@ -79,6 +79,16 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   },
   {
+    path: '/5Questions-before-pursuing-degree-abroad',
+    name: '5Questions',
+    component: () => import(/* webpackChunkName: "about" */ '../views/5Questions.vue')
+  },
+  {
+    path: '/20-useful-resources-for-admission',
+    name: '20Resources',
+    component: () => import(/* webpackChunkName: "about" */ '../views/20useful.vue')
+  },
+  {
     path: '/login',
     name: 'Login',
     component: () => import(/* webpackChunkName: "login" */ '../views/auth/Login.vue')

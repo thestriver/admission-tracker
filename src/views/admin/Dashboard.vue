@@ -21,10 +21,10 @@
      <div class="mt-20 pt-12 -px-8 ">
         <!-- <header-stats /> -->
      </div>
-    <div class="w-full mb-12 mt-5 px-4">
+    <div class="w-full mb-16 mt-5 px-4">
       <card-home />
 
-      <a href="@/assets/5 Questions You Must Ask Yourself Before Pursuing A Degree Abroad.pdf" class="underline lg:text-3xl" >Download Guide</a>
+      <!-- <a href="" class="underline lg:text-3xl" >Download Guide</a> -->
     </div>
     
 

@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-wrap" style="padding-bottom: 330px" >
-    <div class="w-full mb-12 px-4 pt-10 mt-20">
+    <div class="w-full mb-16 px-4 pt-10 mt-20">
       <div class="container flex flex-col justify-center p-4 mx-auto md:p-8">	
               <div class="flex flex-col divide-y sm:px-8 lg:px-12 xl:px-32 divide-coolGray-300">
                 <details>
